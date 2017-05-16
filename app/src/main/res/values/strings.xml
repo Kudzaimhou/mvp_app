@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mvp_app</string>
+    <string name="thing3">Thing 3</string>
+    <string name="thing2">Thing 2</string>
+    <string name="thing1">Thing 1</string>
+    <string name="count">count: 0</string>
+</resources>
